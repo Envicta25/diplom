@@ -1,8 +1,6 @@
-Result_models/
 *.tmp
 ~$*.docx
-App_test/
-Приказ/
-Чужие дипломы/
-Текст к презе.docx
-Титульник.docx
+docs/
+data/result_models
+
+
